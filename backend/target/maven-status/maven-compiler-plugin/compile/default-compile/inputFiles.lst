@@ -1,0 +1,8 @@
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\model\FinancialRecord.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\controller\RiskController.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\model\AnalysisResult.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\repository\AnalysisResultRepository.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\RiskAnalysisApplication.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\GlobalExceptionHandler.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\repository\FinancialRecordRepository.java
+D:\Enterprise Risk Analysis\backend\src\main\java\com\risk\service\RiskAnalysisService.java

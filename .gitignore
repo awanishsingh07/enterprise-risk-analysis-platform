@@ -1,0 +1,40 @@
+# ======================
+# Frontend (React)
+# ======================
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.development
+.env.production
+
+# ======================
+# Backend (Spring Boot / Java)
+# ======================
+target/
+*.log
+*.class
+*.jar
+*.war
+application-secrets.yml
+application-secrets.properties
+
+# ======================
+# IDE / Editor
+# ======================
+.vscode/
+.idea/
+*.iml
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Misc
+# ======================
+logs/
+tmp/
